@@ -36,11 +36,11 @@ Este projeto é licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LIC
 
 ---
 ## 👥 Integrantes
-- **Pedro**
-- **Gabriel**
-- **Beatriz**
-- **Bruno**
-- **Gustavo**
+- **Pedro Henrique**
+- **Gabriel Augusto**
+- **Beatriz Cortez**
+- **Bruno Alves**
+- **Gustavo Moura Barbosa**
 
 ---
 
